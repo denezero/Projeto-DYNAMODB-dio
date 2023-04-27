@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Queen"},
+  "SongTitle": {"S": "Bohemian Rhapsody"},
+  "AlbumTitle": {"S": "A Night at the Opera"},
+  "SongYear": {"S": "1975"}
+}

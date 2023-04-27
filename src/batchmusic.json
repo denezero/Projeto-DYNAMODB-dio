@@ -1,0 +1,34 @@
+{
+  "Music": [
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Queen"},
+                "SongTitle": {"S": "Bohemian Rhapsody"},
+                "AlbumTitle": {"S": "A Night at the Opera"},
+                "SongYear": {"S": "1975"}
+              }
+          }
+      },
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Queen"},
+                "SongTitle": {"S": "Death on Two Legs"},
+                "AlbumTitle": {"S": "A Night at the Opera"},
+                "SongYear": {"S": "1975"}
+              }
+          }
+      },
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Queen"},
+                "SongTitle": {"S": "You're My Best Friend"},
+                "AlbumTitle": {"S": "A Night at the Opera"},
+                "SongYear": {"S": "1975"}
+              }
+          }
+      }
+    ]
+}
